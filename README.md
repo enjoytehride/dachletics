@@ -1,6 +1,8 @@
 # :mountain_bicyclist: DACHletics Indoor Cycling Guide
 Umfangreiche Zusammenstellung sämtlicher Indoor Radfahr und Lauf Themen
 
+<img src="./dachletics-logo-big.png" alt="DACHletics Logo" height="200px" />
+
 # Was ist DACHletics?
 DACHletics ist eine Community für alle Zwifter:innen aus Deutschland, Österreich und der Schweiz - egal ob du auf dem Rad unterwegs bist oder läufst.
 
@@ -97,13 +99,10 @@ Wichtig ist nur das man überhaupt einen Ventilator nutzt.
 <br> 
 
 https://whatsonzwift.com/
+<br> 
 https://www.zwiftworkout.com/
+<br> 
 https://zwiftpower.com/
+<br> 
 https://zwifthacks.com/
-https://zwiftinsider.com/smart-trainers-current/
 
-> [!WARNING]
-> Urgent content that requires immediate user focus due to possible risks.
-
-
-|  |  |  |  |  |
