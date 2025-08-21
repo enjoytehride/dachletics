@@ -106,4 +106,6 @@ https://www.zwiftworkout.com/
 https://zwiftpower.com/
 <br> 
 https://zwifthacks.com/
+<br>
+https://zwifthub.com/
 
