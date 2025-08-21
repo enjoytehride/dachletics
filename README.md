@@ -40,7 +40,8 @@ Eine kostenlose Testversion von einigen Tagen bieten viele an. So kann man alle 
 | ---------- | ---------- | ---------- | ---------- | 
 | Zwift | Windows, macOS, iOS, Android, Apple TV | Virtuelle Welten, soziale Rennen & Events, Workouts, XP, Drops, Clubs, Companion-App, Drafting | ~ 20€ | 
 | MyWhoosh | Windows, macOS, iOS, Android | 700+ Workouts, virtuelle Welten, Rennen (inkl. Preisgeld), Clubs, UCI-Esports-WM Plattform | Kostenlos | 
-| Rouvy | Windows, macOS, iOS, Android, Apple TV | Real-World-Video mit AR-Effekten, strukturierte Pläne, Gruppenfahrten, Trainingsdatenanalyse | ~ 15€ | 
+| Rouvy | Windows, macOS, iOS, Android, Apple TV | Real-World-Video mit AR-Effekten, strukturierte Pläne, Gruppenfahrten, Trainingsdatenanalyse | ~ 15€ |
+| TraingsPeaks (ehemals IndieVelo) | Windows, macOS, iOS, Android, Apple TV | Entwickelt von einem ehemaligen Zwift Entwickler. Fokus und Zen Modus. | ~20$ |
 | TrainerRoad | Windows, macOS, iOS, Android | KI-gestützte strukturierte Trainingspläne, Performance-Analysen, Fokus auf Trainingseffektivität | ~ 22$ | 
 
 <br>
